@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Julia Brown",
+    "relationship": "Mom",
+    "phone": "08055589823",
+    "picture": "/images/julia-brown.png"
+  },
+  {
+    "id": "2",
+    "name": "David Brown",
+    "relationship": "Dad",
+    "phone": "09011358982",
+    "picture": "/images/david-brown.png"
+  },
+  {
+    "id": "3",
+    "name": "Rose Brown",
+    "relationship": "Sister",
+    "phone": "07045129901",
+    "picture": "/images/rose-brown.png"
+  },
+  {
+    "id": "4",
+    "name": "Joe Brown",
+    "relationship": "Brother",
+    "phone": "08199540177",
+    "picture": "/images/joe-brown.png"
+  }
+]

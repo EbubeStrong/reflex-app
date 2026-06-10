@@ -1,0 +1,38 @@
+[
+  {
+    "geocode": [6.43256, 7.51242],
+    "popUp": "Police station Independence Layout, Enugu"
+  },
+  {
+    "geocode": [6.453046, 7.52235],
+    "popUp": "The Nigerian Police State Headquarters, Enugu"
+  },
+  {
+    "geocode": [6.4606, 7.4988],
+    "popUp": "Nigerian police station, IMT Polo, Enugu"
+  },
+  {
+    "geocode": [6.458238, 7.487341],
+    "popUp": "Enugu state Police command"
+  },
+  {
+    "geocode": [6.506872, 7.40602],
+    "popUp": "Nigeria Police Achara"
+  },
+  { "geocode": [6.3171, 7.53559], "popUp": "Ozalla Police Station" },
+  { "geocode": [6.415907, 7.499276], "popUp": "Police Station" },
+  {
+    "geocode": [6.413934, 7.533023],
+    "popUp": "Enugu Lifestyle and Golf City Police Station"
+  },
+  { "geocode": [6.42549, 7.49079], "popUp": "Uwani Police Station" },
+  {
+    "geocode": [6.4402, 7.4943],
+    "popUp": "Public Complaint Rapid Response Unit PCRRU)"
+  },
+  { "geocode": [6.453046, 7.52235], "popUp": "Police Post Emene" },
+  {
+    "geocode": [6.453046, 7.52235],
+    "popUp": "Nigerian police Division airport Emene"
+  }
+]
